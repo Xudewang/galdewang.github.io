@@ -14,8 +14,7 @@ author: De-wang Xu (徐德望)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am a PhD student at department of astronomy and kavil institute of astronomy and astrophysics of Peking University. \
-  I am interested in galaxies and working on the structures of galaxies. I love galaxies!"
+  About Me: "I am a PhD student at department of astronomy and kavil institute of astronomy and astrophysics of Peking University. I am interested in galaxies and working on the structures of galaxies. I love galaxies!"
   Resources:
     - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
     #- Learn markdown: "https://www.markdowntutorial.com/"
