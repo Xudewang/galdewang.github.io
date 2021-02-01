@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: 学而不思则罔，思而不学则殆。
+subtitle:记XX有感
+gh-repo: Xudewang/Xudewang.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
