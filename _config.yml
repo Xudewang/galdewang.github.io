@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Galaxies
+title: We live in Galaxies
 
 # Your name to show in the footer
 author: De-wang Xu (徐德望)
@@ -17,9 +17,9 @@ navbar-links:
   About Me: "I am a PhD student at department of astronomy and kavil institute of astronomy and astrophysics of Peking University. 
   I am interested in galaxies and working on the structures of galaxies. I love galaxies!"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
