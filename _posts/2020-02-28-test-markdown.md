@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 学而不思则罔，思而不学则殆。
-subtitle:记XX有感
+title: You should always work hard
+subtitle: Come on
 gh-repo: Xudewang/Xudewang.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
