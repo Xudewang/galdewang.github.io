@@ -14,7 +14,7 @@ author: De-wang Xu (徐德望)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am a PhD student at department of astronomy and kavil institute of astronomy and astrophysics of Peking University. 
+  About Me: "I am a PhD student at department of astronomy and kavil institute of astronomy and astrophysics of Peking University. \
   I am interested in galaxies and working on the structures of galaxies. I love galaxies!"
   Resources:
     - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/6916534C-4C27-4BC9-ACCB-C4516BE650C6.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
