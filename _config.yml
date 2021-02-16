@@ -97,14 +97,14 @@ keywords: "Astronomy, Galaxies, PKU, NJU"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#bcbddc"
-navbar-text-col: "#efedf5"
+navbar-text-col: "#000000"
 navbar-border-col: "#C0C0C0"
 page-col: "#756bb1"
 text-col: "#efedf5"
-link-col: "#efedf5"
+link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#bcbddc"
-footer-text-col: "#efedf5"
+footer-text-col: "#000000"
 footer-link-col: "#efedf5"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
