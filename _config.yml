@@ -78,7 +78,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "Xudewang.github.io"
+url-pretty: "Xudewang.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -101,11 +101,11 @@ navbar-text-col: "#efedf5"
 navbar-border-col: "#C0C0C0"
 page-col: "#756bb1"
 text-col: "#efedf5"
-link-col: "#008AFF"
+link-col: "#efedf5"
 hover-col: "#0085A1"
 footer-col: "#bcbddc"
 footer-text-col: "#efedf5"
-footer-link-col: "#404040"
+footer-link-col: "#efedf5"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
