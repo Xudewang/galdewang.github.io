@@ -4,7 +4,7 @@ title: You should always work hard
 subtitle: Come on
 gh-repo: Xudewang/Xudewang.github.io
 #gh-badge: [star, fork, follow]
-cover-img: "assets/img/me.png"
+cover-img: assets/img/me.png
 tags: [Work]
 comments: true
 ---
