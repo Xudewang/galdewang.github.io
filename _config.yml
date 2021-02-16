@@ -9,7 +9,7 @@
 title: DEWANG XU'S HOMEPAGE
 
 # Your name to show in the footer
-author: De-wang Xu (徐德望)
+author: De-Wang Xu (徐德望)
 
 # --- List of links in the navigation bar --- #
 
@@ -78,10 +78,10 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Xudewang.github.io"
+#url-pretty: "Xudewang.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 30
+excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
