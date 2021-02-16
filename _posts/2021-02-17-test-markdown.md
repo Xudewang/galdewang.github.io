@@ -5,6 +5,7 @@ subtitle: Come on.
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [work]
+cover-img: assets/img/me.png
 comments: true
 ---
 
