@@ -3,7 +3,7 @@ layout: post
 title: You should always work hard
 subtitle: Come on
 gh-repo: Xudewang/Xudewang.github.io
-gh-badge: [star, fork, follow]
+#gh-badge: [star, fork, follow]
 tags: [Work]
 comments: true
 ---
