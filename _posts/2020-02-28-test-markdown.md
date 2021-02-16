@@ -2,7 +2,6 @@
 layout: post
 title: You should always work hard
 subtitle: Come on
-gh-repo: Xudewang/Xudewang.github.io
 tags: [Work]
 comments: true
 ---
