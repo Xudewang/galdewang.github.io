@@ -19,7 +19,7 @@ navbar-links:
   Resources:
     - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - resource web: "website_combine"
+    - resource web: "web_combine"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
