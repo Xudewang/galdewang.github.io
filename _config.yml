@@ -41,8 +41,8 @@ round-avatar: True
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dwxu@pku.edu.cn"
-  #facebook: deanattali
-  github: Xudewang"
+  facebook: 徐德望
+  github: Xudewang
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -57,7 +57,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: Dawn Shu
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: "0000-0003-2154-2098"
