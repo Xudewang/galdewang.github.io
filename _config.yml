@@ -14,7 +14,7 @@ author: De-Wang Xu (徐德望)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research:
+  Research: "research"
   About: "aboutme"
   Resources:
     - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
