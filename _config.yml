@@ -20,7 +20,8 @@ navbar-links:
     - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
     - DATA SOURCE: "data"
     - resource web: "web_combine"
-  LIFE: "Photo"
+  LIFE: 
+    - PHOTO: "Photo"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
