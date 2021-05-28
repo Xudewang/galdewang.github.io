@@ -14,12 +14,13 @@ author: De-Wang Xu (徐德望)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About Me: "aboutme"
   Research: "research"
-  About: "aboutme"
   Resources:
     - CGS survey: "https://cgs.obs.carnegiescience.edu/CGS/Home.html"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - DATA SOURCE: "Collect some useful database links."
     - resource web: "web_combine"
+  LIFE: "Photo"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
