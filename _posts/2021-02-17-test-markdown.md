@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You should work hard!
+title: A test of post!
 subtitle: Come on.
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [work]
+tags: [test, best, attempt]
 cover-img: assets/img/me.png
 comments: true
 ---
